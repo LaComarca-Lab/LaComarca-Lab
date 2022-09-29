@@ -5,7 +5,17 @@
 
 Somos el **Laboratorio de Computación Matemática y Análisis de Redes Complejas y sus Aplicaciones**, perteneciente a la URJC. 
 
-Estamos en proceso de crear este perfil de GitHub, estad pendientes!
+Estamos en proceso de crear este perfil de GitHub, además de una página web [https://lacomarca-lab.github.io/](https://lacomarca-lab.github.io/), estad pendientes!
+
+
+### Temas de investigación 🧠
+
+
+### Materiales disponibles 📚
+
+
+### Otros 🧮
+
 
 ---
 
